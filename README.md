@@ -1,2 +1,12 @@
 # Sentiment-Analysis-to-classify-reviews-
 Train a model to successfully predict the rating of a review typed by a user reviewing the service. We will do this by training 3 different models namely, Gaussian Naive Bayes Classifier, Decision Tree Classifier and the Multilayer Perceptron Classifier
+Language: Python was my chosen language used to develop my solution as it contains all the necessary packages used in NLP and can be easily imported, and use a package called MITIE for information extraction but for this problem, Python proved to me more suitable.
+IDE: Google COLAB was my chosen IDE, COLAB proved to be a good deep learning IDE that is freely and easily available to use through a web browser. This proved to be very convenient for me as I switched between my PC and laptop frequently when on the move. This IDE incorporated the idea of working on a single project through many channels i.e., laptop, desktop, as well as smartphones using google drive to autosave the project as you update /work on it.
+API’s: The following API’s were used to program the solution-
+❖ Pandas: This is a software library written for the Python programming language for data manipulation and analysis. It offers data structures and operations for manipulating numerical tables and time series.
+❖ NumPy: This is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+❖ Matplotlib: This is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications.
+❖ Seaborn: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+❖ SpaCy: SpaCy is a library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing and word vectors.
+❖ NLTK: NLTK is a library with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries and also included over 50 corpora and lexical resources.
+❖ Sklearn: The sklearn library contains a lot of efficient tools for machine learning and statistical modelling including classification, regression, and clustering.
